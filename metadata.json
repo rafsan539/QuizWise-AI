@@ -1,0 +1,7 @@
+{
+  "name": "QuizWise AI",
+  "description": "A sophisticated AI-powered quiz generator that transforms any topic or document into academic-level multiple-choice questions using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
