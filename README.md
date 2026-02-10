@@ -105,7 +105,7 @@ QuizWise-AI/
 
 ## Developer
 
-**Rafsan**
+**MD.RAFSAN ZANI **
 Full-stack enthusiast, React and TypeScript developer, AI integration explorer
 
 * GitHub: [https://github.com/rafsan539](https://github.com/rafsan539)
